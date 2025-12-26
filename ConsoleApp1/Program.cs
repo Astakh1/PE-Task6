@@ -1,17 +1,15 @@
 ﻿namespace ConsoleApp1
 {
-    internal class Program
+    public class Program
     {
         static void Main()
         {
-            c = y + a
-            No more compiling
             Console.WriteLine($"30 C = {ConvertTemperature(30, "C", "K")} K");
-            Console.WriteLine($"30 C = {ConvertTemperature(100, "F", "K")} K");
-            Console.WriteLine($"30 C = {ConvertTemperature(-10, "C", "F")} K");
+            Console.WriteLine($"100 F = {ConvertTemperature(100, "F", "K")} K");
+            Console.WriteLine($"-10 C = {ConvertTemperature(-10, "C", "F")} F");
         }
 
-        static double ConvertTemperature(double value, string from, string to)
+        public static double ConvertTemperature(double value, string from, string to)
         {
             double celsius = from switch
             {

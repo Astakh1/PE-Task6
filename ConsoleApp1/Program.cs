@@ -4,6 +4,8 @@
     {
         static void Main()
         {
+            c = y + a
+            No more compiling
             Console.WriteLine($"30 C = {ConvertTemperature(30, "C", "K")} K");
             Console.WriteLine($"30 C = {ConvertTemperature(100, "F", "K")} K");
             Console.WriteLine($"30 C = {ConvertTemperature(-10, "C", "F")} K");

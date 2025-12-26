@@ -1,0 +1,5 @@
+C:\Users\lendingfox\Documents\GitHub\PE-Task6\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lendingfox\Documents\GitHub\PE-Task6\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\lendingfox\Documents\GitHub\PE-Task6\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\lendingfox\Documents\GitHub\PE-Task6\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lendingfox\Documents\GitHub\PE-Task6\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
